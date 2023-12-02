@@ -1,0 +1,102 @@
+/* General styles */
+
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1, h2, p {
+    margin: 0;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  /* Header */
+  
+  .header {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .header h1 {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .header p {
+    font-size: 16px;
+  }
+  
+  /* Navbar */
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+    padding: 20px;
+  }
+  
+  .navbar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  .navbar a {
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  /* Main content */
+  
+  main {
+    padding: 20px;
+  }
+  
+  .section {
+    margin-bottom: 20px;
+  }
+  
+  .section h2 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .section p {
+    font-size: 16px;
+  }
+  
+  /* Habit tracker */
+  
+  .habit-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .habit-list li {
+    margin-bottom: 10px;
+  }
+  
+  .habit-list label {
+    display: block;
+    margin-left: 5px;
+  }
+  
+  /* Chatbot */
+  
+  .chatbot-container {
+    border
+  
