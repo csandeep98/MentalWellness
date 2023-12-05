@@ -1,3 +1,5 @@
+__Developer__ : Sandeep Chilukuri and Saeed
 
-Website related to mental wellness application
-this would be a website in development
+This is a website related to mental wellness application \n.
+
+__Future Works:__
